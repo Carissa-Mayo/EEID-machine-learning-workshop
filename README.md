@@ -82,8 +82,8 @@ We **stratify** the train/test split to preserve the chosen class ratio within e
 ## Results
  
 Model results with the species: Miniopterus schreibersii
-| | | | |
-|:-:|:-:|:-:|:-:|
+| | |
+|:-:|:-:|
 | <img src="images/diff_SDM_plot4.png" width="200"> |
 | <img src="images/diff_SDM_plot5.png" width="200"> |
 | <img src="images/diff_SDM_plot6.png" width="200"> |
